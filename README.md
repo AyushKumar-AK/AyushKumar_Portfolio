@@ -1,6 +1,6 @@
 # My Portfolio
 
-![demo](https://github.com/AyushKumar-AK/AyushKumar_Portfolio/assets/101948218/0725ad45-47ce-4d41-9bdf-37bfe6f3cd04)
+![demo](https://github.com/AyushKumar-AK/AyushKumar_Portfolio/assets/101948218/1dbb22ac-f92d-4ca5-9743-58218ba73ae2)
 
 
 ## Running Locally
